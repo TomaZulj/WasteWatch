@@ -80,15 +80,15 @@ function MapLegend() {
             <h3>Legend</h3>
             <div className="legend-item">
                 <span className="legend-color" style={{ backgroundColor: "#00ff00" }}></span>
-                <span>Empty (0%)</span>
+                <span>Prazna (0%)</span>
             </div>
             <div className="legend-item">
                 <span className="legend-color" style={{ backgroundColor: "#ffaa00" }}></span>
-                <span>Half Full (50%)</span>
+                <span>Napola puna (50%)</span>
             </div>
             <div className="legend-item">
                 <span className="legend-color" style={{ backgroundColor: "#ff0000" }}></span>
-                <span>Full (100%)</span>
+                <span>Puna (100%)</span>
             </div>
         </div>
     );

@@ -13,7 +13,7 @@ function Statistics({ sensorsData }) {
 
     return (
         <div className="statistics-container">
-            <h2>Trash Can Statistics</h2>
+            <h2>Statistika o kantama</h2>
 
             <div className="stats-grid">
                 {Object.entries(sensorsData).map(([sensorId, data]) => (
@@ -82,7 +82,7 @@ function SummarySection({ sensorsData }) {
 
     return (
         <div className="summary-section">
-            <h3>Summary</h3>
+            <h3>Sažetak</h3>
             <div className="summary-grid">
                 <div className="summary-item">
                     <span className="summary-label">Ukupan broj kanti:</span>
