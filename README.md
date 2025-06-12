@@ -7,7 +7,7 @@ Real-time sustav upravljanja otpadom za grad Zagreb sa interaktivnom kartom i st
 
 ### 1. Klonirajte repozitorij i instalirajte 
 ```bash
-git clone https://github.com/TomaZulj/WasteWatch
+git clone https://github.com/TomaZulj/WasteWatch.git
 cd WasteWatch
 npm install
 ```
